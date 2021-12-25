@@ -4,6 +4,12 @@
 
 This project was bootstrapped with [Create React App].
 
+## npm i 
+is for installing json packges
+
+## npm start 
+for start the project 
+
 ## Available Scripts
 
 In the project directory, you can run:
